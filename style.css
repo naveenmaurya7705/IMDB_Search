@@ -38,9 +38,9 @@
 }
 
 #output{
-   display: flex;
-   flex-direction:raw;
-   width: 100%;
+    display: flex;
+    flex-direction:raw;
+    width: 100%;
 }
 
 /*append this class for "image-div" and "movie-content-div" */
